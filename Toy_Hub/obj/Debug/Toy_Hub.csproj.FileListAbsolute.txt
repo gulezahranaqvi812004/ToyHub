@@ -1,0 +1,488 @@
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\obj\Debug\Toy_Hub.csproj.AssemblyReference.cache
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\obj\Debug\Toy_Hub.Properties.Resources.resources
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.AddUpdatedSalary.resources
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.GenerateReports.resources
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.LandingPage.resources
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.LoginMenu.resources
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.MainAttendanceForm.resources
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.ManagerDashboard.resources
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.ManagerLogin.resources
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.MarkAttendance.resources
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.ProductManagement.resources
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.PunchOrder.resources
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.ReportsPage.resources
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.SalaryManagement.resources
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.SalarySystem.resources
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.ShipmentManagement.resources
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.StaffManagement.resources
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.StockManagement.resources
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.UpdateProduct.resources
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.UpdateSalary.resources
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.UpdateSender.resources
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.UpdateStaff.resources
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.UpdateStocks.resources
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\obj\Debug\Toy_Hub.UI.ViewReport.resources
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\obj\Debug\Toy_Hub.csproj.GenerateResource.cache
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\obj\Debug\Toy_Hub.csproj.CoreCompileInputs.cache
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\Toy_Hub.exe.config
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\Toy_Hub.exe
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\Toy_Hub.pdb
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\Azure.Core.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\Azure.Identity.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\BouncyCastle.Crypto.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.Shared.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\itextsharp.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\Microsoft.Identity.Client.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\System.Buffers.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\System.Data.SqlClient.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\System.Memory.Data.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\System.Memory.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\System.Numerics.Vectors.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\System.Security.AccessControl.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\System.Security.Permissions.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\System.Security.Principal.Windows.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\System.Text.Encodings.Web.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\System.Text.Json.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\System.ValueTuple.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\stdole.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\Azure.Core.xml
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\Azure.Identity.xml
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\itextsharp.xml
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\Microsoft.Identity.Client.xml
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\System.Buffers.xml
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\System.Data.SqlClient.xml
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\System.Memory.xml
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\System.Memory.Data.xml
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\System.Numerics.Vectors.xml
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\System.Security.AccessControl.xml
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\System.Security.Permissions.xml
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\System.Security.Principal.Windows.xml
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\System.Text.Encodings.Web.xml
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\System.Text.Json.xml
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\System.ValueTuple.xml
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\obj\Debug\Toy_Hub.csproj.Up2Date
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\obj\Debug\Toy_Hub.exe
+D:\4th semester\random_data\ToyHubCV1\ToyHub111\Toy_Hub\obj\Debug\Toy_Hub.pdb
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Toy_Hub.exe.config
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Toy_Hub.exe
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Toy_Hub.pdb
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Azure.Core.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Azure.Identity.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\BouncyCastle.Crypto.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.Shared.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\itextsharp.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.Identity.Client.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Buffers.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Data.SqlClient.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Memory.Data.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Memory.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Numerics.Vectors.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Security.AccessControl.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Security.Permissions.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Security.Principal.Windows.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Text.Encodings.Web.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Text.Json.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.ValueTuple.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\stdole.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Azure.Core.xml
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Azure.Identity.xml
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\itextsharp.xml
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.Identity.Client.xml
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Buffers.xml
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Data.SqlClient.xml
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Memory.xml
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Memory.Data.xml
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Numerics.Vectors.xml
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Security.AccessControl.xml
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Security.Permissions.xml
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Security.Principal.Windows.xml
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Text.Encodings.Web.xml
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Text.Json.xml
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.ValueTuple.xml
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\Toy_Hub.csproj.AssemblyReference.cache
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\Toy_Hub.Properties.Resources.resources
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.AddUpdatedSalary.resources
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.GenerateReports.resources
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.LandingPage.resources
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.LoginMenu.resources
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.MainAttendanceForm.resources
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.ManagerDashboard.resources
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.ManagerLogin.resources
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.MarkAttendance.resources
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.ProductManagement.resources
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.PunchOrder.resources
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.ReportsPage.resources
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.SalaryManagement.resources
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.SalarySystem.resources
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.ShipmentManagement.resources
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.StaffManagement.resources
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.StockManagement.resources
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.UpdateProduct.resources
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.UpdateSalary.resources
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.UpdateSender.resources
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.UpdateStaff.resources
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.UpdateStocks.resources
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\Toy_Hub.UI.ViewReport.resources
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\Toy_Hub.csproj.GenerateResource.cache
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\Toy_Hub.csproj.CoreCompileInputs.cache
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\Toy_Hub.csproj.Up2Date
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\Toy_Hub.exe
+D:\4thSemester\Final Project\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\Toy_Hub.pdb
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Toy_Hub.exe.config
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Toy_Hub.exe
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Toy_Hub.pdb
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Azure.Core.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Azure.Identity.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\BouncyCastle.Crypto.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.Shared.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\itextsharp.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.Identity.Client.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Buffers.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Data.SqlClient.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Memory.Data.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Memory.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Numerics.Vectors.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Security.AccessControl.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Security.Permissions.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Security.Principal.Windows.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Text.Encodings.Web.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Text.Json.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.ValueTuple.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\stdole.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Azure.Core.xml
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Azure.Identity.xml
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\itextsharp.xml
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.Identity.Client.xml
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Buffers.xml
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Data.SqlClient.xml
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Memory.xml
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Memory.Data.xml
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Numerics.Vectors.xml
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Security.AccessControl.xml
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Security.Permissions.xml
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Security.Principal.Windows.xml
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Text.Encodings.Web.xml
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Text.Json.xml
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.ValueTuple.xml
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\Toy_Hub.csproj.AssemblyReference.cache
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\Toy_Hub.Properties.Resources.resources
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.AddUpdatedSalary.resources
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.GenerateReports.resources
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.LandingPage.resources
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.LoginMenu.resources
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.MainAttendanceForm.resources
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.ManagerDashboard.resources
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.ManagerLogin.resources
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.MarkAttendance.resources
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.ProductManagement.resources
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.PunchOrder.resources
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.ReportsPage.resources
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.SalaryManagement.resources
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.SalarySystem.resources
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.ShipmentManagement.resources
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.StaffManagement.resources
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.StockManagement.resources
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.UpdateProduct.resources
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.UpdateSalary.resources
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.UpdateSender.resources
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.UpdateStaff.resources
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.UpdateStocks.resources
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\Toy_Hub.UI.ViewReport.resources
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\Toy_Hub.csproj.GenerateResource.cache
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\Toy_Hub.csproj.CoreCompileInputs.cache
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\Toy_Hub.csproj.Up2Date
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\Toy_Hub.exe
+D:\Semester4\Database\ToyHubUploaded\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\Toy_Hub.pdb
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Toy_Hub.exe.config
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Toy_Hub.exe
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Toy_Hub.pdb
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Azure.Core.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Azure.Identity.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\BouncyCastle.Crypto.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.Shared.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\itextsharp.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.Identity.Client.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Buffers.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Data.SqlClient.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Memory.Data.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Memory.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Numerics.Vectors.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Security.AccessControl.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Security.Permissions.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Security.Principal.Windows.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Text.Encodings.Web.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Text.Json.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.ValueTuple.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\stdole.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Azure.Core.xml
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Azure.Identity.xml
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\itextsharp.xml
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.Identity.Client.xml
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Buffers.xml
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Data.SqlClient.xml
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Memory.xml
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Memory.Data.xml
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Numerics.Vectors.xml
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Security.AccessControl.xml
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Security.Permissions.xml
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Security.Principal.Windows.xml
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Text.Encodings.Web.xml
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Text.Json.xml
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\System.ValueTuple.xml
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\Toy_Hub.csproj.AssemblyReference.cache
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\Toy_Hub.Properties.Resources.resources
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.AddUpdatedSalary.resources
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.GenerateReports.resources
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.LandingPage.resources
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.LoginMenu.resources
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.MainAttendanceForm.resources
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.ManagerDashboard.resources
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.ManagerLogin.resources
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.MarkAttendance.resources
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.ProductManagement.resources
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.PunchOrder.resources
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.ReportsPage.resources
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.SalaryManagement.resources
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.SalarySystem.resources
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.ShipmentManagement.resources
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.StaffManagement.resources
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.StockManagement.resources
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.UpdateProduct.resources
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.UpdateSalary.resources
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.UpdateSender.resources
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.UpdateStaff.resources
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\ToyHub.UI.UpdateStocks.resources
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\Toy_Hub.UI.ViewReport.resources
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\Toy_Hub.csproj.GenerateResource.cache
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\Toy_Hub.csproj.CoreCompileInputs.cache
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\Toy_Hub.csproj.Up2Date
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\Toy_Hub.exe
+D:\4thSemester\Final Project\ToyHub\ToyHub111\ToyHub111\Toy_Hub\obj\Debug\Toy_Hub.pdb

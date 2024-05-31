@@ -1,0 +1,628 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|d:\\4thsemester\\final project\\toyhub\\toyhub111\\toyhub111\\toy_hub\\ui\\stockmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\ui\\stockmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\ui\\stockmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\ui\\stockmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\ui\\updatestocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\ui\\updatestocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\ui\\updatestocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\ui\\updatestocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\ui\\viewreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\ui\\viewreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\ui\\generatereports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\ui\\generatereports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\ui\\reportspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\ui\\reportspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\ui\\salarysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\ui\\salarysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\ui\\salarysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\ui\\salarysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\ui\\productmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\ui\\productmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\ui\\productmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\ui\\productmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\ui\\shipmentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\ui\\shipmentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\ui\\managerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\ui\\managerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\ui\\addupdatedsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\ui\\addupdatedsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\ui\\updatestaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\ui\\updatestaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\ui\\updatesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\ui\\updatesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\ui\\updatesalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\ui\\updatesalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\ui\\updateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\ui\\updateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\ui\\staffmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\ui\\staffmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\ui\\salarymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\ui\\salarymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\ui\\punchorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\ui\\punchorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\ui\\markattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\ui\\markattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\ui\\managerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\ui\\managerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\ui\\mainattendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\ui\\mainattendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\ui\\loginmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\ui\\loginmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\ui\\landingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\ui\\landingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\dl\\salarydl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\dl\\salarydl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\ui\\salarymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\ui\\salarymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\dl\\attendancedl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\dl\\attendancedl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\ui\\markattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\ui\\markattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\ui\\mainattendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\ui\\mainattendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\ui\\managerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\ui\\managerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\ui\\shipmentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\ui\\shipmentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\dl\\senderdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\dl\\senderdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\ui\\updatesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\ui\\updatesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\dl\\orderdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\dl\\orderdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\ui\\punchorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\ui\\punchorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\toy_hub\\ui\\staffmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEAD3E0-E756-4CF5-81CC-1737E4F52411}|Toy_Hub\\Toy_Hub.csproj|solutionrelative:toy_hub\\ui\\staffmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReportsPage.cs [Design]",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\ReportsPage.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\UI\\ReportsPage.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\ReportsPage.cs [Design]",
+              "RelativeToolTip": "Toy_Hub\\UI\\ReportsPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:40:18.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewReport.cs [Design]",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\ViewReport.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\UI\\ViewReport.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\ViewReport.cs [Design]",
+              "RelativeToolTip": "Toy_Hub\\UI\\ViewReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:41:58.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StockManagement.cs [Design]",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\StockManagement.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\UI\\StockManagement.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\StockManagement.cs [Design]",
+              "RelativeToolTip": "Toy_Hub\\UI\\StockManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:40:44.581Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StockManagement.cs",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\StockManagement.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\UI\\StockManagement.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\StockManagement.cs",
+              "RelativeToolTip": "Toy_Hub\\UI\\StockManagement.cs",
+              "ViewState": "AQIAACMBAAAAAAAAAAAAwEkBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:50:13.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateStocks.cs",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\UpdateStocks.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\UI\\UpdateStocks.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\UpdateStocks.cs",
+              "RelativeToolTip": "Toy_Hub\\UI\\UpdateStocks.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAGYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:58:48.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateStocks.cs [Design]",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\UpdateStocks.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\UI\\UpdateStocks.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\UpdateStocks.cs [Design]",
+              "RelativeToolTip": "Toy_Hub\\UI\\UpdateStocks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:41:54.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenerateReports.cs [Design]",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\GenerateReports.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\UI\\GenerateReports.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\GenerateReports.cs [Design]",
+              "RelativeToolTip": "Toy_Hub\\UI\\GenerateReports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:39:00.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SalarySystem.cs",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\SalarySystem.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\UI\\SalarySystem.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\SalarySystem.cs",
+              "RelativeToolTip": "Toy_Hub\\UI\\SalarySystem.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAIwG4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:11:15.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SalarySystem.cs [Design]",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\SalarySystem.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\UI\\SalarySystem.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\SalarySystem.cs [Design]",
+              "RelativeToolTip": "Toy_Hub\\UI\\SalarySystem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:11:13.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShipmentManagement.cs [Design]",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\ShipmentManagement.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\UI\\ShipmentManagement.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\ShipmentManagement.cs [Design]",
+              "RelativeToolTip": "Toy_Hub\\UI\\ShipmentManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:48:31.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductManagement.cs",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\ProductManagement.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\UI\\ProductManagement.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\ProductManagement.cs",
+              "RelativeToolTip": "Toy_Hub\\UI\\ProductManagement.cs",
+              "ViewState": "AQIAAGQBAAAAAAAAAAAcwHsBAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:45:41.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductManagement.cs [Design]",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\ProductManagement.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\UI\\ProductManagement.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\ProductManagement.cs [Design]",
+              "RelativeToolTip": "Toy_Hub\\UI\\ProductManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:39:58.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ManagerDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\ManagerDashboard.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\UI\\ManagerDashboard.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\ManagerDashboard.cs [Design]",
+              "RelativeToolTip": "Toy_Hub\\UI\\ManagerDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:39:48.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddUpdatedSalary.cs [Design]",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\AddUpdatedSalary.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\UI\\AddUpdatedSalary.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\AddUpdatedSalary.cs [Design]",
+              "RelativeToolTip": "Toy_Hub\\UI\\AddUpdatedSalary.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:37:46.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\Program.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\Program.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\Program.cs",
+              "RelativeToolTip": "Toy_Hub\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T06:18:50.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateProduct.cs [Design]",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\UpdateProduct.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\UI\\UpdateProduct.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\UpdateProduct.cs [Design]",
+              "RelativeToolTip": "Toy_Hub\\UI\\UpdateProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:40:48.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateSalary.cs [Design]",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\UpdateSalary.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\UI\\UpdateSalary.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\UpdateSalary.cs [Design]",
+              "RelativeToolTip": "Toy_Hub\\UI\\UpdateSalary.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:40:50.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateStaff.cs [Design]",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\UpdateStaff.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\UI\\UpdateStaff.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\UpdateStaff.cs [Design]",
+              "RelativeToolTip": "Toy_Hub\\UI\\UpdateStaff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:41:32.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateSender.cs [Design]",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\UpdateSender.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\UI\\UpdateSender.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\UpdateSender.cs [Design]",
+              "RelativeToolTip": "Toy_Hub\\UI\\UpdateSender.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T06:38:16.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SalaryManagement.cs [Design]",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\SalaryManagement.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\UI\\SalaryManagement.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\SalaryManagement.cs [Design]",
+              "RelativeToolTip": "Toy_Hub\\UI\\SalaryManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:40:21.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StaffManagement.cs [Design]",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\StaffManagement.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\UI\\StaffManagement.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\StaffManagement.cs [Design]",
+              "RelativeToolTip": "Toy_Hub\\UI\\StaffManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T06:44:27.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ManagerLogin.cs [Design]",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\ManagerLogin.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\UI\\ManagerLogin.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\ManagerLogin.cs [Design]",
+              "RelativeToolTip": "Toy_Hub\\UI\\ManagerLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:39:46.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PunchOrder.cs [Design]",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\PunchOrder.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\UI\\PunchOrder.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\PunchOrder.cs [Design]",
+              "RelativeToolTip": "Toy_Hub\\UI\\PunchOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:33:05.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginMenu.cs [Design]",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\LoginMenu.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\UI\\LoginMenu.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\LoginMenu.cs [Design]",
+              "RelativeToolTip": "Toy_Hub\\UI\\LoginMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:39:39.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MarkAttendance.cs [Design]",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\MarkAttendance.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\UI\\MarkAttendance.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\MarkAttendance.cs [Design]",
+              "RelativeToolTip": "Toy_Hub\\UI\\MarkAttendance.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:52:09.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LandingPage.cs [Design]",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\LandingPage.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\UI\\LandingPage.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\LandingPage.cs [Design]",
+              "RelativeToolTip": "Toy_Hub\\UI\\LandingPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:39:19.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MainAttendanceForm.cs [Design]",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\MainAttendanceForm.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\UI\\MainAttendanceForm.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\MainAttendanceForm.cs [Design]",
+              "RelativeToolTip": "Toy_Hub\\UI\\MainAttendanceForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:59:54.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MainAttendanceForm.cs",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\MainAttendanceForm.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\UI\\MainAttendanceForm.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\MainAttendanceForm.cs",
+              "RelativeToolTip": "Toy_Hub\\UI\\MainAttendanceForm.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAwFcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:59:55.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MarkAttendance.cs",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\MarkAttendance.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\UI\\MarkAttendance.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\MarkAttendance.cs",
+              "RelativeToolTip": "Toy_Hub\\UI\\MarkAttendance.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAAAHIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:52:11.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SalaryDL.cs",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\DL\\SalaryDL.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\DL\\SalaryDL.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\DL\\SalaryDL.cs",
+              "RelativeToolTip": "Toy_Hub\\DL\\SalaryDL.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAYwEoAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T06:38:27.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ShipmentManagement.cs",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\ShipmentManagement.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\UI\\ShipmentManagement.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\ShipmentManagement.cs",
+              "RelativeToolTip": "Toy_Hub\\UI\\ShipmentManagement.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAA1wEgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:48:34.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SenderDL.cs",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\DL\\SenderDL.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\DL\\SenderDL.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\DL\\SenderDL.cs",
+              "RelativeToolTip": "Toy_Hub\\DL\\SenderDL.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAgwJ4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:47:49.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OrderDL.cs",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\DL\\OrderDL.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\DL\\OrderDL.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\DL\\OrderDL.cs",
+              "RelativeToolTip": "Toy_Hub\\DL\\OrderDL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:37:39.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "StaffManagement.cs",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\StaffManagement.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\UI\\StaffManagement.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\StaffManagement.cs",
+              "RelativeToolTip": "Toy_Hub\\UI\\StaffManagement.cs",
+              "ViewState": "AQIAAG0BAAAAAAAAAAAAAKwBAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T06:44:29.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UpdateSender.cs",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\UpdateSender.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\UI\\UpdateSender.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\UpdateSender.cs",
+              "RelativeToolTip": "Toy_Hub\\UI\\UpdateSender.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAA7wE4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T06:38:19.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PunchOrder.cs",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\PunchOrder.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\UI\\PunchOrder.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\PunchOrder.cs",
+              "RelativeToolTip": "Toy_Hub\\UI\\PunchOrder.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAUwNwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:33:08.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AttendanceDL.cs",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\DL\\AttendanceDL.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\DL\\AttendanceDL.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\DL\\AttendanceDL.cs",
+              "RelativeToolTip": "Toy_Hub\\DL\\AttendanceDL.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwB4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T06:38:05.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SalaryManagement.cs",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\SalaryManagement.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\UI\\SalaryManagement.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\SalaryManagement.cs",
+              "RelativeToolTip": "Toy_Hub\\UI\\SalaryManagement.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAD4vysAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T06:37:48.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ManagerDashboard.cs",
+              "DocumentMoniker": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\ManagerDashboard.cs",
+              "RelativeDocumentMoniker": "Toy_Hub\\UI\\ManagerDashboard.cs",
+              "ToolTip": "D:\\4thSemester\\Final Project\\ToyHub\\ToyHub111\\ToyHub111\\Toy_Hub\\UI\\ManagerDashboard.cs",
+              "RelativeToolTip": "Toy_Hub\\UI\\ManagerDashboard.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T02:25:10.149Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
